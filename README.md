@@ -1,1 +1,0 @@
-# vds_jenkins_wiht_vagrant_and_virtualbox_simple
